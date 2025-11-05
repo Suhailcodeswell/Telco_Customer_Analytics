@@ -63,5 +63,25 @@ Comprehensive SQL analysis of telecom customer data to identify churn drivers, s
 - Average Monthly Revenue: $64.75
 - Monthly Revenue at Risk: $456,116
 
+## 💡 Executive Summary
+
+### Critical Business Insights:
+- **42.7% churn rate** for month-to-month contracts vs 2.8% for 2-year contracts
+- **45.3% churn rate** for electronic check users - highest risk segment
+- **$1.2M annual revenue** at risk from fiber optic customer churn
+- **$99/month customers** leaving within first year - major revenue loss
+
+### Recommended Actions:
+1. **Contract conversion program** - Target 40% churn reduction
+2. **Payment method optimization** - Electronic to automatic transition
+3. **High-value customer retention** - Protect $1.2M revenue
+4. **Service quality improvement** - Address fiber customer issues
+
+### Expected Impact:
+- **$2.4M annual revenue preservation**
+- **45% overall churn reduction** 
+- **3,170+ customers retained annually**
+
+[View detailed business insights](business_insights.md)
 ---
 *Project demonstrates advanced SQL skills, business analytics, and data-driven decision making.*
